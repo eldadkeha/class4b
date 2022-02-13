@@ -59,3 +59,6 @@ TermSocket.open: Opened 1
 [I 16:42:07.147 NotebookApp] Kernel shutdown: 8380e1d5-33c4-45d4-a856-576ee35a88fc
 [I 16:58:08.476 NotebookApp] Kernel started: dd7d8666-7965-4c69-af67-6458319983d2, name: python3
 [I 16:59:45.351 NotebookApp] Saving file at /G4.ipynb
+[I 17:01:46.328 NotebookApp] Saving file at /G4.ipynb
+[I 17:02:57.233 NotebookApp] Kernel started: f53eacd0-1f17-4897-9e3d-c9e9c3bf9642, name: python3
+[I 17:04:12.324 NotebookApp] Saving file at /G4C1.ipynb
